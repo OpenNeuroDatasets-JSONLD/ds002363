@@ -1,0 +1,14 @@
+{
+    "Name": "Differential Repetition Suppression Effects to Computer Warnings as Revealed with Functional MRI",
+    "BIDSVersion": "1.1.1",
+    "License": "CC0",
+    "Authors": [
+        "Brock Kirwan",
+        "Daniel Bjornn",
+        "Amanda Ellgen",
+        "BoBonnie Anderson",
+        "Anthony Vance",
+        "David Eargle"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002363.v1.0.0"
+}
